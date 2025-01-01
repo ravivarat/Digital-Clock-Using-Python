@@ -1,6 +1,6 @@
 Digital Clock
 
-https://github.com/ravivarat/Digital-Clock-Using-Python/issues/1#issue-2764867948
+![image](https://github.com/user-attachments/assets/368f2818-1a1b-456d-8140-857bb0a8e476)
 
 Prerequisites:
 1. Python Basics
